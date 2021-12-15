@@ -1,0 +1,106 @@
+
+body{
+    background: url(../img/2.png),
+    url(../img/6.png),
+    url(../img/3.png),
+    url(../img/5.png),
+    url(../img/4.png);
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
+    background-position: -255px 290px, 540px -10px, -290px -550px, 1230px 520px, 850px 30px;
+    background-size: 70%, 20%, 55%, 10%, 50%;
+    
+
+}
+
+/*.pagina{
+    margin-top: 13%;
+    margin-left: 10%;
+}
+
+input{
+    width: calc(100% - 20px);
+    padding: 40px;
+
+    }
+label{
+    margin-left: 10%;
+}    
+#nome{
+    width: 560px;
+    margin-left: 50%;  
+    }
+#e-mail{
+    width: 560px;
+    margin-left: 50%;
+    
+    }
+#senha{
+        width: 560px;
+        margin-left: 50%;
+       
+        }
+#confirmarsenha{
+    width: 560px;
+    margin-left: 50%;
+    
+    }
+    
+    #botao{
+    text-align: center;
+    
+    }
+    #labeluser{
+        width: 50px;
+        margin-left: 20;
+        
+        }
+    #botao{
+    width: 100px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #3489f8;
+    font-size: 15px;
+    }
+    #nivel{
+    width: 560px;
+    margin-left: 50%;
+    }
+
+.col-md-6{
+    margin-bottom: 15px;
+    margin-top: 1%;
+}
+]*/
+
+
+/*Formatação de formulário*/
+input{
+width: calc(50% - 20px);
+padding: 10px;
+}
+h4{
+    text-align: center;
+}
+.pagina{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+#botao{
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 7%;
+    margin-left: 40%;
+}
+.btn_enviar{
+    width: 150px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 6px;
+    background-color: #44B6F8 ;
+    font-size: 18px;
+    color:rgb(255, 255, 255);
+}
+ /* parte 1*/

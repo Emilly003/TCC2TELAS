@@ -1,0 +1,48 @@
+body{
+    background: url(./img/2.png),
+    url(./img/3.png),
+    url(./img/5.png),
+    url(./img/4.png),
+    url(./img/6.png);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: -255px 290px, -290px -550px, 1230px 520px, 850px 30px, 400px -30px;
+    background-size: 70%, 55%, 10%, 50%, 35%;
+}
+
+.container{
+    margin-top: 20%;
+}
+
+#usuario{
+    width: 420px;
+    height: 50px;
+    margin-left: 30%;
+}
+
+#senha{
+    width: 420px;
+    height: 50px;
+    margin-left: 30%;
+}
+
+label{
+    margin-left: 45%;
+    font-size: 20px;
+}
+
+#labelsenha{
+    margin-top: 3%;
+}
+
+#botao{
+    width: 150px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 6px;
+    background-color: #44B6F8 ;
+    font-size: 18px;
+    color:rgb(255, 255, 255);
+    margin-left: 42%;
+    margin-top: 3%;
+}
